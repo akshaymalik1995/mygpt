@@ -10,6 +10,7 @@ My GPT is a React application designed to serve as a frontend interface for inte
 - **API KEY** : Your Openai API Key is never leaves the browser.
 
 ## Usage
+- **DEMO** - [MY GPT](https://akshaymalik1995.github.io/mygpt)
 - Add your Openai key in the settings which you can find at the bottom of the sidebar.
 
 ## Getting Started
