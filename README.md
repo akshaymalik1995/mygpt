@@ -7,6 +7,10 @@ My GPT is a React application designed to serve as a frontend interface for inte
 - **Custom Gpts**: Users can easily add new GPT with custom system prompts and settings.
 - **Real-time Interaction with GPT Models**: Seamlessly integrate with OpenAI's GPT models to generate text, answer questions, and more.
 - **Modern Tooling**: Utilizes Vite for rapid development, TypeScript for robust typing, and Tailwind CSS for utility-first styling.
+- **API KEY** : Your Openai API Key is never leaves the browser.
+
+## Usage
+- Add your Openai key in the settings which you can find at the bottom of the sidebar.
 
 ## Getting Started
 
