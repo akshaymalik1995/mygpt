@@ -22,7 +22,7 @@ export default function Sidebar(props : {open : Boolean, setOpen: Function}) {
   }
 
   return (
-    <div className={`h-screen  ${props.open ? '-translate-x-0 z-10' : '-translate-x-full'} md:-translate-x-0 fixed top-0 bottom-0  w-64 bg-gray-100 `}>
+    <div className={`h-full ${props.open ? '-translate-x-0 z-10' : '-translate-x-full'} md:-translate-x-0 fixed top-0 bottom-0  w-64 bg-gray-100 `}>
 
       <div className="flex h-full flex-col">
         <div className="p-2 rounded-none items-center flex justify-between w-full bg-gray-800 text-white cursor-pointer  border"><div className="grow" onClick={() => setGptOpen(true)}>New Chat</div><div className="md:hidden" onClick={() => props.setOpen(false)} ><BiCollapse /></div></div>
