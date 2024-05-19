@@ -1,0 +1,10 @@
+.markdown-text p {
+    margin: 1rem auto;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+pre {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: rgba(128, 128, 128, 0.3); 
+}
